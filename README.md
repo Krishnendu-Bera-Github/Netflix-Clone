@@ -1,3 +1,10 @@
+## Output
+
+![Screenshot (267)](https://user-images.githubusercontent.com/89067482/168575473-25d96277-cfc3-49b7-b8c5-94dd89866eb4.png)
+![Screenshot (265)](https://user-images.githubusercontent.com/89067482/168575485-a9e5e882-7cfb-4214-989a-f2626099f640.png)
+![Screenshot (267)](https://user-images.githubusercontent.com/89067482/168575523-df016691-e936-48a7-850c-539d596f8591.png)
+![Screenshot (268)](https://user-images.githubusercontent.com/89067482/168575532-5ed1dd6f-d021-4c8b-9ea5-6b5816bcae53.png)
+
 
 
 ## Available Scripts
