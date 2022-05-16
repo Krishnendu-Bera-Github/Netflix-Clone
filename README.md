@@ -1,4 +1,4 @@
-## Click on the Link for [Live Demo](https://netflix-clone-c2bbe.web.app).
+
 
 ## Available Scripts
 
